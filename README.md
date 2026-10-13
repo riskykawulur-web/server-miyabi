@@ -1,1 +1,1 @@
-# server-miyabi
+server
